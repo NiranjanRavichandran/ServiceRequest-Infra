@@ -1,0 +1,170 @@
+.background {
+  background: WHITE
+	}
+ 
+ .embeddedProcessLink {
+  COLOR: #0000FF;
+  FONT-FAMILY: arial,geneva,sans-serif; 
+  FONT-SIZE: 11px; 
+  FONT-WEIGHT: bold; 
+  FONT-SYTLE: underline 
+} 
+
+.pageHeader { 
+ COLOR: #00008b; 
+ FONT-FAMILY: arial, geneva, sans-serif; 
+ FONT-SIZE: 12px; 
+ FONT-WEIGHT: bold; 
+ BACKGROUND-COLOR: #0000CC;
+  } 
+  
+.outerTable { 
+ border: thin #999900 solid; 
+ background-color: #f0f8ff
+} 
+.tableHeader { 
+  FONT-FAMILY :Bookman Old Style;
+  COLOR:#0033ff;
+  BORDER:  #999900;   
+ BACKGROUND-COLOR: #f0f8ff;
+}
+.errorHeader { 
+  FONT-FAMILY :Bookman Old Style;
+  COLOR:red;
+  BORDER:  #999900;   
+ BACKGROUND-COLOR: #f0f8ff;
+} 
+ .mainLabel { 
+ COLOR: #00008b; 
+ FONT-FAMILY: arial,geneva,sans-serif; 
+ FONT-SIZE: 12px; 
+ FONT-WEIGHT: bold; 
+} 
+
+ .txaEnabled{ 
+  COLOR: #00008b; 
+  FONT-FAMILY: arial,geneva,sans-serif; 
+  FONT-SIZE: 12px; 
+  TEXT-ALIGN: left; 
+  BORDER-COLOR: RGB(200,200,200); 
+  BORDER-STYLE: groove; 
+  
+  } 
+ 
+
+.txbEnabledText{ 
+ COLOR: #00008b; 
+ FONT-FAMILY: arial,geneva,sans-serif; 
+ FONT-SIZE: 12px; 
+ TEXT-ALIGN: left; 
+ BORDER-COLOR: RGB(200,200,200); 
+ BORDER-STYLE: groove; 
+} 
+
+.tblHeader{
+ COLOR: White; 
+ FONT-FAMILY: arial,geneva,sans-serif; 
+ FONT-SIZE: 13px; 
+ FONT-WEIGHT: bold; 
+ TEXT-ALIGN: center; 
+ background-color: #6495ed; 
+ border: thick #000066
+} 
+
+.tblDataText{ 
+ COLOR: RGB(0,0,0); 
+ FONT-FAMILY: arial,geneva,sans-serif; 
+ FONT-SIZE: 12px; 
+ TEXT-ALIGN: center; 
+ FONT-WEIGHT: bold; 
+ background-color:#ccccff ; 
+} 
+
+
+
+
+.navMenu { 
+ FONT-SIZE: 0.8em; 
+ COLOR: red; 
+ FONT-FAMILY: arial,geneva,sans-serif; 
+ TEXT-DECORATION: none 
+} 
+
+A.navMenu { 
+ FONT-SIZE: 0.8em; 
+ COLOR: green; 
+ FONT-FAMILY: arial,geneva,sans-serif; 
+ TEXT-DECORATION: none 
+} 
+
+A.navMenu:hover { 
+ FONT-SIZE: 0.8em; 
+ COLOR: red; 
+ FONT-FAMILY: arial,geneva,sans-serif; 
+ TEXT-DECORATION: none 
+} 
+
+A.navMenu:active { 
+ FONT-SIZE: 0.8em; 
+ COLOR: white; 
+ FONT-FAMILY: arial,geneva,sans-serif; 
+ TEXT-DECORATION: none 
+ } 
+ 
+ A.navMenu:link { 
+  FONT-SIZE: 0.8em; 
+  COLOR: black; 
+  FONT-FAMILY: arial,geneva,sans-serif; 
+  TEXT-DECORATION: none 
+ } 
+ 
+ A.navMenu:visited { 
+ FONT-SIZE: 0.8em; 
+ COLOR: red; 
+ FONT-FAMILY: arial,geneva,sans-serif; 
+ TEXT-DECORATION: none 
+} 
+
+
+
+.lblTitle { 
+ font-family: Arial, Helvetica, sans-serif; 
+ font-size: 18px; 
+ color: #00008b
+} 
+
+ 
+
+.blueBackGround { 
+ background-color: #00008b; 
+ height: 5 
+ } 
+ 
+ .orangeBackGround { 
+ background-color: #ccccff; 
+ height: 5 
+}
+#link{
+	text-decoration:none;
+	color:red;
+	}
+	.back { 
+ color : #FFFFFF; 
+ height: 22; 
+ background-color:  #6495ed; 
+ font-weight: bold; 
+ font-family: Verdana; 
+ font-size: 8pt; 
+ width:84; 
+ border-width : thin; 
+}
+ BUTTON { 
+ color : #FFFFFF; 
+ height: 22; 
+ background-color:  #6495ed; 
+ font-weight: bold; 
+ font-family: Verdana; 
+ font-size: 8pt; 
+ width:84; 
+ border-width : thin; 
+} @CHARSET "ISO-8859-1";
